@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFrameworks>netstandard1.0;netstandard2.0;net472;net6.0</TargetFrameworks>
+		<Title>Highly Optimized Priority Queue</Title>
+		<Description>A highly optimized Priority Queue for path-finding and related applications</Description>
+		<Product>Highly Optimized Priority Queue</Product>
+		<Copyright>Copyright © BlueRaja 2017</Copyright>
+		<Version>6.0.0</Version>
+		<PackageProjectUrl>https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp</RepositoryUrl>
+		<licenseUrl>https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp/blob/master/LICENSE.txt</licenseUrl>
+		<projectUrl>https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp</projectUrl>
+		<AssemblyOriginatorKeyFile>Priority Queue.snk</AssemblyOriginatorKeyFile>
+		<DelaySign>false</DelaySign>
+		<Authors>BlueRaja</Authors>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageTags>C#;priority-queue;pathfinding;optimized</PackageTags>
+	</PropertyGroup>
+
+</Project>
